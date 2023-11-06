@@ -8,7 +8,7 @@ while (continua) {
    var n1 = parseFloat(prompt('digite o primeiro valor: '))
    var n2 = parseFloat(prompt('digite o segundo valor: '))
 
-   if (n2 === 0) {
+   if (n 2 === 0) {
        console.log('número invalido')
        var n2 = parseFloat(prompt('digite o segundo valor'))
    }
